@@ -1,3 +1,4 @@
+
 \# User Management System (Spring Boot)
 
 
@@ -56,3 +57,6 @@ The application provides secure REST APIs for user registration, login, and role
 
 
 
+=======
+# springboot-user-management-jwt
+>>>>>>> bb36f7ade5bd004325858cd5bb8fc9bc55562e93
