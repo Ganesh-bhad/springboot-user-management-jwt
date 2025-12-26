@@ -47,16 +47,22 @@ The application provides secure REST APIs for user registration, login, and role
 
 
 
-\## How to Run
+## Prerequisites (Software & Tools)
 
-1\. Clone the repository
+- Java: JDK 1.8 (Java SE 8)
+- Spring Boot: 2.7.14
+- IDE: Spring Tool Suite (STS) 3.19.x
+- Database: MySQL 5.1.49
+- Database Tool: MySQL Workbench 8.x
+- Build Tool: Maven
+- API Testing Tool: Postman
 
-2\. Configure MySQL database in `application.properties`
+---
 
-3\. Run the application using:
+## How to Run the Application (Step-by-Step)
 
+### Step 1: Database Setup
+1. Start MySQL Server.
+2. Open MySQL Workbench.
+3. Create a database:CREATE DATABASE userdatabaseForTechPlus;(use-sql)
 
-
-=======
-# springboot-user-management-jwt
->>>>>>> bb36f7ade5bd004325858cd5bb8fc9bc55562e93
